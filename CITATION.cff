@@ -1,8 +1,11 @@
 cff-version: 1.2.0
-message: "If you use this public-reference package, cite the Zenodo DOI after publication. Until DOI publication, cite by title, version, creator, and repository URL."
+message: "If you use this public-reference package, cite the Zenodo DOI."
 title: "Neotro Protocol Quantum Compute Public Reference Package v1.1"
 version: "v1.1"
 date-released: "2026-05-22"
+doi: "10.5281/zenodo.20336590"
+url: "https://doi.org/10.5281/zenodo.20336590"
+repository-code: "https://github.com/Neotro-Engine/neotro-protocol-quantum-compute-public-reference"
 authors:
   - name: "Neotro"
     affiliation: "Neotro Protocol Project"

@@ -6,6 +6,15 @@ Contact: neotroprotocol@gmail.com
 Creator / Author: Neotro
 Rights Holder: Neotro
 Organization: Neotro Protocol Project
+Zenodo DOI: https://doi.org/10.5281/zenodo.20336590
+GitHub repository: https://github.com/Neotro-Engine/neotro-protocol-quantum-compute-public-reference
+GitHub release: https://github.com/Neotro-Engine/neotro-protocol-quantum-compute-public-reference/releases/tag/v1.1
+
+## Archival identifiers
+
+- Zenodo DOI: https://doi.org/10.5281/zenodo.20336590
+- GitHub repository: https://github.com/Neotro-Engine/neotro-protocol-quantum-compute-public-reference
+- GitHub release: https://github.com/Neotro-Engine/neotro-protocol-quantum-compute-public-reference/releases/tag/v1.1
 
 ## Included
 

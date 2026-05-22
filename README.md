@@ -11,6 +11,9 @@ This package is prepared for public-reference reading, aggregate result verifica
 - Organization: Neotro Protocol Project
 - Contact: neotroprotocol@gmail.com
 - Release: Neotro Protocol Quantum Compute Public Reference Package v1.1
+- Zenodo DOI: https://doi.org/10.5281/zenodo.20336590
+- GitHub repository: https://github.com/Neotro-Engine/neotro-protocol-quantum-compute-public-reference
+- GitHub release: https://github.com/Neotro-Engine/neotro-protocol-quantum-compute-public-reference/releases/tag/v1.1
 
 ## Included files
 
@@ -33,7 +36,7 @@ This package is prepared for public-reference reading, aggregate result verifica
   Release notes for v1.1.
 
 - `CITATION.cff`  
-  Citation metadata. Update with Zenodo DOI after DOI publication.
+  Citation metadata with Zenodo DOI and public package repository information.
 
 - `CHECKSUMS_SHA256.txt`  
   SHA256 checksums for repository release files.
@@ -70,11 +73,16 @@ This release is governed by `LICENSE.md` and summarized by `PUBLIC_BOUNDARY_NOTI
 
 ## Citation
 
-Use the Zenodo DOI after publication. Until the DOI is assigned, cite this repository by title, version, creator, and release date.
+Recommended citation target: https://doi.org/10.5281/zenodo.20336590
+
+Use the Zenodo DOI for citation and archival reference. The GitHub repository provides the public-reference repository view and release coordination.
 
 Public package creator: Neotro.  
 Rights holder / organization: Neotro / Neotro Protocol Project.  
 Contact: neotroprotocol@gmail.com.
+
+GitHub repository: https://github.com/Neotro-Engine/neotro-protocol-quantum-compute-public-reference
+GitHub release: https://github.com/Neotro-Engine/neotro-protocol-quantum-compute-public-reference/releases/tag/v1.1
 
 ## Recommended repository description
 
