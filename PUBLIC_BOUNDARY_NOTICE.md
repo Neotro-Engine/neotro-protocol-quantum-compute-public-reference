@@ -18,7 +18,7 @@ The repository does not include or authorize:
 
 - Non-public operational implementation materials.
 - Deployment-specific or partner-calibrated materials.
-- Reconstruction-sensitive assignment or implementation materials.
+- Implementation-sensitive observer or deployment materials.
 - Production-use or operational deployment packages.
 - Partner-side operational review materials.
 - QPU workflow control.

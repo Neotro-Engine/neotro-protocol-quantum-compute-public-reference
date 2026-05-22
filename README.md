@@ -59,7 +59,6 @@ It does not provide materials outside the stated public-reference scope, provide
 
 The data ZIP contains 55 files. Its top-level `03_Metadata/MANIFEST_SHA256.csv` covers 54 files; the manifest file itself is not self-listed because self-referential hash inclusion would change the manifest hash. Track-level manifests are included inside each track folder.
 
-The data ZIP has been checked for the previous Track 3 `repetition_code` residual expression and contains no `repetition_code` occurrence.
 
 JSON aggregate summaries use object-wrapper structures for Track 1, Track 2, Track 3, and cross-track comparison. Counts are represented as numeric values.
 

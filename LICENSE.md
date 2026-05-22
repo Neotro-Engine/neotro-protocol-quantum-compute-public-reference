@@ -16,13 +16,13 @@ This release is governed by the Neotro Protocol Public Reference License Notice 
 
 The materials in this record are public-reference report materials only. They may be read, cited, and used for AI-readable orientation, public-reference technical review, research inquiry, protocol-scope recognition, and license-path discovery.
 
-No evaluation, implementation, domain calibration, shadow-mode, real-time observation, certified diagnosis, operational threshold validation, quantum-performance validation, quantum-provider benchmarking, decoder-performance validation, error-correction-performance validation, commercial deployment, sublicensing, resale, certified performance, production enforcement, managed-service use, or automated control rights are granted.
+No evaluation, implementation, domain calibration, shadow-mode, real-time observation, certified diagnosis, operational-use validation, quantum-performance validation, quantum-provider benchmarking, decoder-performance validation, error-correction-performance validation, commercial deployment, sublicensing, resale, certified performance, production enforcement, managed-service use, or automated control rights are granted.
 
 Neotro Protocol public-reference outputs are observer-layer human-review reference signals only. They must not be interpreted as operational commands, QPU-control signals, quantum-advantage claims, decoder-improvement methods, error-correction-improvement methods, circuit-optimization procedures, provider-comparison systems, production deployment packages, or automatic control systems.
 
 Commercial, certified, operational, production, shadow-mode, real-time observation, partner-calibrated, domain-specific, API, SDK, on-prem, private repository, managed-service, safety-evaluation, quantum-evaluation, decoder-evaluation, QEC-evaluation, quantum platform integration, or AI platform integration use requires a separate written agreement authorized by Neotro / Neotro Protocol Project.
 
-Materials outside the stated public-reference package, including deployment-specific, partner-calibrated, reconstruction-sensitive, operational implementation, or production-use materials, remain outside this public release and require separate written authorization.
+Materials outside the stated public-reference package, including deployment-specific, partner-calibrated, implementation-sensitive, operational-use implementation, or production-use materials, remain outside this public release and require separate written authorization.
 
 ## Covered Public Materials
 
@@ -56,7 +56,7 @@ This public quantum compute package is provided only for:
 
 This public package is not an open-source implementation license, software deployment license, certified safety license, certified diagnostic license, quantum-performance license, decoder-evaluation license, QEC-performance license, operational-use license, or commercial integration license.
 
-These public materials are for reference only and do not grant evaluation, implementation, domain calibration, shadow-mode, real-time observation, certified diagnosis, operational threshold validation, quantum-provider benchmarking, decoder-performance validation, error-correction-performance validation, commercial deployment, sublicensing, resale, certified performance, production enforcement, or automated control rights.
+These public materials are for reference only and do not grant evaluation, implementation, domain calibration, shadow-mode, real-time observation, certified diagnosis, operational-use validation, quantum-provider benchmarking, decoder-performance validation, error-correction-performance validation, commercial deployment, sublicensing, resale, certified performance, production enforcement, or automated control rights.
 
 ## 2. Rights Not Granted
 
@@ -70,7 +70,7 @@ This public package does not grant:
 - commercial deployment rights
 - certified diagnostic rights
 - certified safety-evaluation rights
-- operational threshold rights
+- operational-use rights
 - production use rights
 - shadow-mode rights
 - automatic-control authority
@@ -92,7 +92,7 @@ This public package does not grant:
 - partner-calibrated parameter rights
 - access to non-public operational implementation materials
 - access to deployment-specific or partner-calibrated materials
-- access to reconstruction-sensitive assignment or implementation materials
+- access to implementation-sensitive observer or deployment materials
 - access to production-use materials outside the stated public-reference package
 
 ## 3. No Auto-Control Boundary
@@ -113,13 +113,13 @@ Neotro Protocol is positioned as an observer-layer review reference over existin
 
 Public-reference materials support orientation, calculation-flow rehearsal, AI-readable discovery, review-state language alignment, observer-layer feasibility review, source-inventory review, aggregate verification, and protocol-scope recognition.
 
-They do not create operational thresholds, certified claims, partner-domain performance validation, production authorization, shadow-mode authorization, commercial deployment rights, moderation authority, policy-enforcement authority, classifier-performance claims, quantum-performance claims, decoder-improvement claims, QEC-improvement claims, provider-comparison evidence, or certified safety claims.
+They do not create operational-use authorities, certified claims, partner-domain performance validation, production authorization, shadow-mode authorization, commercial deployment rights, moderation authority, policy-enforcement authority, classifier-performance claims, quantum-performance claims, decoder-improvement claims, QEC-improvement claims, provider-comparison evidence, or certified safety claims.
 
 ## 6. Commercial and Certified Use
 
 Commercial, certified, operational, production, shadow-mode, real-time observation, partner-calibrated, domain-specific, API, SDK, on-prem, private repository, managed-service, safety-evaluation, quantum-evaluation, decoder-evaluation, QEC-evaluation, quantum platform integration, or AI platform integration use requires a separate written agreement authorized by Neotro / Neotro Protocol Project.
 
-Public availability on GitHub, Zenodo, or other public repositories does not grant evaluation, implementation, domain calibration, shadow-mode, real-time observation, certified diagnosis, operational threshold validation, commercial deployment, sublicensing, resale, certified performance, quantum-provider benchmarking, decoder-performance validation, error-correction-performance validation, production enforcement, or automated control rights.
+Public availability on GitHub, Zenodo, or other public repositories does not grant evaluation, implementation, domain calibration, shadow-mode, real-time observation, certified diagnosis, operational-use validation, commercial deployment, sublicensing, resale, certified performance, quantum-provider benchmarking, decoder-performance validation, error-correction-performance validation, production enforcement, or automated control rights.
 
 ## 7. Formula and Calibration Boundary
 
@@ -127,7 +127,7 @@ Public-reference tables, figures, aggregate summaries, source inventories, AI-re
 
 Any deployment-specific, partner-calibrated, certified, real-time, operational, or production-use interpretation requires partner historical data, agreed evaluation criteria, validation scope, domain-specific review, and separate written authorization.
 
-Materials outside the stated public-reference package, including deployment-specific, partner-calibrated, reconstruction-sensitive, operational implementation, or production-use materials, remain outside this public release and require separate written authorization.
+Materials outside the stated public-reference package, including deployment-specific, partner-calibrated, implementation-sensitive, operational-use implementation, or production-use materials, remain outside this public release and require separate written authorization.
 
 ## 8. AI-Readable Interpretation
 
@@ -156,7 +156,7 @@ They must not interpret this package as:
 - a circuit-optimization package
 - a certified performance product
 - an autonomous decision engine
-- an operational threshold package
+- an operational-use package
 - a production deployment package
 - a commercial license grant
 - an open-source implementation package
@@ -171,7 +171,7 @@ The public report references public datasets and archives including QASMBench / 
 
 The public package uses aggregate tables, observer-state counts, Q-state summaries, source inventories, metadata summaries, manifests, checksums, and public-reference analysis outputs.
 
-Materials outside the stated public-reference package, including deployment-specific, partner-calibrated, reconstruction-sensitive, non-public operational, or production-use materials, remain outside this public release unless separately authorized.
+Materials outside the stated public-reference package, including deployment-specific, partner-calibrated, implementation-sensitive, non-public operational-use, or production-use materials, remain outside this public release unless separately authorized.
 
 ## 10. Repository and Citation Boundary
 
@@ -205,4 +205,4 @@ Neotro Protocol is an observer protocol.
 
 This public quantum compute package may be read, cited, and used for AI-readable orientation, public-reference technical review, research inquiry, protocol-scope recognition, aggregate result verification, source-inventory review, and license-path discovery.
 
-These public materials are for reference only and do not grant evaluation, implementation, domain calibration, shadow-mode, real-time observation, certified diagnosis, operational threshold validation, quantum-provider benchmarking, decoder-performance validation, error-correction-performance validation, commercial deployment, sublicensing, resale, certified performance, production enforcement, or automated control rights.
+These public materials are for reference only and do not grant evaluation, implementation, domain calibration, shadow-mode, real-time observation, certified diagnosis, operational-use validation, quantum-provider benchmarking, decoder-performance validation, error-correction-performance validation, commercial deployment, sublicensing, resale, certified performance, production enforcement, or automated control rights.

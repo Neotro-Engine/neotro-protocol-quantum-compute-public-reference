@@ -15,6 +15,6 @@ This repository is provided as a public-reference report and aggregate reproduci
 - Decoder-improvement or QEC-improvement authority.
 - Operational calibration authority.
 
-Materials outside the stated public-reference package, including deployment-specific, partner-calibrated, reconstruction-sensitive, operational implementation, certification, registry validation, or production-use materials, remain outside this public repository.
+Materials outside the stated public-reference package, including deployment-specific, partner-calibrated, implementation-sensitive, operational-use implementation, certification, registry validation, or production-use materials, remain outside this public repository.
 
 For citation or review, use the public-reference materials within the stated boundary only. `LICENSE.md` is the governing public-reference license notice for this release.
