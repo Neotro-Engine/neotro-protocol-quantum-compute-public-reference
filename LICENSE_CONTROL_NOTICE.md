@@ -9,12 +9,12 @@ This repository is provided as a public-reference report and aggregate reproduci
 - Neotro calibration status.
 - Registry status.
 - Authority to represent derivative use as Neotro-certified.
-- Authority to deploy, commercialize, or integrate restricted Neotro operational procedures.
+- Authority to deploy, commercialize, or integrate materials outside the stated public-reference scope.
 - QPU-control authority.
 - Quantum-provider benchmarking authority.
 - Decoder-improvement or QEC-improvement authority.
 - Operational calibration authority.
 
-All restricted implementation procedures, private parameterization, deployment-specific calibration logic, certification processes, registry validation processes, and license-control procedures remain outside this public repository.
+Materials outside the stated public-reference package, including deployment-specific, partner-calibrated, reconstruction-sensitive, operational implementation, certification, registry validation, or production-use materials, remain outside this public repository.
 
 For citation or review, use the public-reference materials within the stated boundary only. `LICENSE.md` is the governing public-reference license notice for this release.

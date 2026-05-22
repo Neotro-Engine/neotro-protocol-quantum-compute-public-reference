@@ -16,13 +16,11 @@ This public repository is limited to public-reference aggregate reproducibility 
 
 The repository does not include or authorize:
 
-- Row-level Q-state assignment specifications.
-- Exact assignment thresholds.
-- Private calibration logic.
-- Weighting logic or deployment-specific parameterization.
-- Reconstruction-sensitive observer features.
-- Operational deployment packages.
-- Partner-side review logs.
+- Non-public operational implementation materials.
+- Deployment-specific or partner-calibrated materials.
+- Reconstruction-sensitive assignment or implementation materials.
+- Production-use or operational deployment packages.
+- Partner-side operational review materials.
 - QPU workflow control.
 - Decoder or QEC improvement method claims.
 - Provider comparison or benchmark-superiority claims.

@@ -45,7 +45,7 @@ This package is prepared for public-reference reading, aggregate result verifica
 
 The package is intended for public-reference reading, aggregate result verification, source-inventory review, research inquiry, protocol-scope recognition, and citation support.
 
-It does not provide operational deployment materials, private calibration logic, row-level assignment specifications, provider-side control authority, QPU-control instructions, decoder improvement methods, error-correction improvement claims, circuit-optimization procedures, provider-comparison claims, or Neotro certification status.
+It does not provide materials outside the stated public-reference scope, provider-side control authority, QPU-control instructions, decoder improvement methods, error-correction improvement claims, circuit-optimization procedures, provider-comparison claims, operational deployment rights, or Neotro certification status.
 
 ## Track inventory
 

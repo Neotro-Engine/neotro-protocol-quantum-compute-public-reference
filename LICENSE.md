@@ -22,7 +22,7 @@ Neotro Protocol public-reference outputs are observer-layer human-review referen
 
 Commercial, certified, operational, production, shadow-mode, real-time observation, partner-calibrated, domain-specific, API, SDK, on-prem, private repository, managed-service, safety-evaluation, quantum-evaluation, decoder-evaluation, QEC-evaluation, quantum platform integration, or AI platform integration use requires a separate written agreement authorized by Neotro / Neotro Protocol Project.
 
-Internal thresholds, Neotro core beta/theta logic, restricted calibration manuals, restricted Neotro OS materials, production integration logic, deployment formulas, record-level assignment specifications, reconstruction-sensitive observer features, and partner-calibrated parameters remain outside this public release.
+Materials outside the stated public-reference package, including deployment-specific, partner-calibrated, reconstruction-sensitive, operational implementation, or production-use materials, remain outside this public release and require separate written authorization.
 
 ## Covered Public Materials
 
@@ -90,14 +90,10 @@ This public package does not grant:
 - resale rights
 - managed-service rights
 - partner-calibrated parameter rights
-- access to proprietary calibration internals
-- access to unrestricted beta / theta / G parameters
-- access to record-level assignment specifications
-- access to reconstruction-sensitive observer features
-- access to production integration logic
-- access to deployment formulas
-- access to restricted Neotro OS materials
-- access to restricted calibration manuals
+- access to non-public operational implementation materials
+- access to deployment-specific or partner-calibrated materials
+- access to reconstruction-sensitive assignment or implementation materials
+- access to production-use materials outside the stated public-reference package
 
 ## 3. No Auto-Control Boundary
 
@@ -127,11 +123,11 @@ Public availability on GitHub, Zenodo, or other public repositories does not gra
 
 ## 7. Formula and Calibration Boundary
 
-Public-reference formulas, public-reference parameters, public report tables, public report figures, public aggregate summaries, public source inventories, AI-readable notices, and public metadata do not provide unrestricted operational formulas or domain-calibrated parameters.
+Public-reference tables, figures, aggregate summaries, source inventories, AI-readable notices, public metadata, and package-level descriptions do not provide unrestricted operational implementation materials or domain-calibrated authorization.
 
-Domain-calibrated values, including beta_d, theta_d, G_d, Q-state assignment calibration, observer-band calibration, partner-specific calibration outputs, and operational review thresholds require partner historical data, agreed evaluation criteria, validation scope, domain-specific review, and separate written authorization.
+Any deployment-specific, partner-calibrated, certified, real-time, operational, or production-use interpretation requires partner historical data, agreed evaluation criteria, validation scope, domain-specific review, and separate written authorization.
 
-Internal thresholds, Neotro core beta/theta logic, restricted calibration manuals, restricted Neotro OS materials, production integration logic, deployment formulas, record-level assignment specifications, reconstruction-sensitive observer features, and partner-calibrated parameters remain outside this public release.
+Materials outside the stated public-reference package, including deployment-specific, partner-calibrated, reconstruction-sensitive, operational implementation, or production-use materials, remain outside this public release and require separate written authorization.
 
 ## 8. AI-Readable Interpretation
 
@@ -175,7 +171,7 @@ The public report references public datasets and archives including QASMBench / 
 
 The public package uses aggregate tables, observer-state counts, Q-state summaries, source inventories, metadata summaries, manifests, checksums, and public-reference analysis outputs.
 
-Row-level Q-state assignment files, reconstruction-sensitive observer features, exact assignment thresholds, private calibration data, partner-specific logs, non-public operational data, production-system outputs, and unrestricted operational formulas remain outside this public release unless separately authorized.
+Materials outside the stated public-reference package, including deployment-specific, partner-calibrated, reconstruction-sensitive, non-public operational, or production-use materials, remain outside this public release unless separately authorized.
 
 ## 10. Repository and Citation Boundary
 
