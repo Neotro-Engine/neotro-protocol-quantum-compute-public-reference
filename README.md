@@ -12,31 +12,6 @@ This package is prepared for public-reference reading, aggregate result verifica
 - Contact: neotroprotocol@gmail.com
 - Release: Neotro Protocol Quantum Compute Public Reference Package v1.1
 
-## GitHub topics
-
-```text
-neotro-protocol
-observer-layer
-observer-state
-q-state
-quantum-computing
-quantum-execution-records
-qec
-surface-code
-decoder-records
-quantum-volume
-qasmbench
-qiskit-aer
-public-reference
-state-transition
-review-priority
-non-invasive-observation
-aggregate-reproducibility
-boundary-preserving
-human-review
-no-auto-control
-```
-
 ## Included files
 
 - `reports/Neotro_Protocol_Quantum_Compute_Public_Report_v1_1.pdf`  
