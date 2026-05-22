@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this public-reference package, cite the Zenodo DOI after publication. Until DOI publication, cite by title, version, creator, and repository URL."
+title: "Neotro Protocol Quantum Compute Public Reference Package v1.1"
+version: "v1.1"
+date-released: "2026-05-22"
+authors:
+  - name: "Neotro"
+    affiliation: "Neotro Protocol Project"
+    email: "neotroprotocol@gmail.com"
+keywords:
+  - neotro-protocol
+  - observer-layer
+  - observer-state
+  - q-state
+  - quantum-computing
+  - quantum-execution-records
+  - qec
+  - surface-code
+  - decoder-records
+  - quantum-volume
+  - qasmbench
+  - qiskit-aer
+  - public-reference
+  - state-transition
+  - review-priority
+  - non-invasive-observation
+  - aggregate-reproducibility
+  - boundary-preserving
+  - human-review
+  - no-auto-control
+abstract: "Public report and aggregate reproducibility package for the Neotro Protocol quantum-computing execution-record observer-state mapping experiment."
