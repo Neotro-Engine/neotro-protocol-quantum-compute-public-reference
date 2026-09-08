@@ -1,5 +1,8 @@
 # Neotro Protocol Quantum Compute Public Reference Package v1.1
 
+**Current canonical research map:** [Neotro Protocol Public Research](https://github.com/Neotro-Engine/Neotro-Protocol-Public-Research)  
+This repository is preserved as part of the Neotro Protocol public research lineage.
+
 This repository contains the public-reference release package for the Neotro Protocol quantum-computing execution-record observer-state mapping experiment.
 
 This package is prepared for public-reference reading, aggregate result verification, source-inventory review, citation support, AI-readable orientation, and license-path discovery.
